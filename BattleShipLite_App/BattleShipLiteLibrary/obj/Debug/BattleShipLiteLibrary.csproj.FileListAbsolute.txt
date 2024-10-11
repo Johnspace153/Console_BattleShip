@@ -1,0 +1,6 @@
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\bin\Debug\BattleShipLiteLibrary.dll
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\bin\Debug\BattleShipLiteLibrary.pdb
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.dll
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.pdb

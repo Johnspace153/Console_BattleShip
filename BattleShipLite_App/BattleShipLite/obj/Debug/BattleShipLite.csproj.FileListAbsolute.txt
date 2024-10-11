@@ -1,0 +1,10 @@
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\bin\Debug\BattleShipLite.exe.config
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\bin\Debug\BattleShipLite.exe
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\bin\Debug\BattleShipLite.pdb
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\bin\Debug\BattleShipLiteLibrary.dll
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\bin\Debug\BattleShipLiteLibrary.pdb
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\obj\Debug\BattleShipLite.csproj.AssemblyReference.cache
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\obj\Debug\BattleShipLite.csproj.CoreCompileInputs.cache
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\obj\Debug\BattleSh.72EAA4CC.Up2Date
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\obj\Debug\BattleShipLite.exe
+C:\Users\space\source\repos\_Projects\BattleShipLite_App\BattleShipLite\obj\Debug\BattleShipLite.pdb
